@@ -1,6 +1,6 @@
 # README
 
-Data generated from the analyses published in <b>RNA-Seq reveals that mitochondrial genes and lncRNAs are paramount in different reproductive generations of the oil-collecting bee <i>Tetrapedia diversipes</i></b>.
+Data generated from the analyses published in <b>RNA-Seq reveals that mitochondrial genes and long noncoding RNAs may play important roles in the bivoltine generations of the non-social Neotropical bee <i>Tetrapedia diversipes</i></b>.
 
 **Transcriptome Annotation**
 
