@@ -1,4 +1,4 @@
-# Data and scripts repository from the manuscript:
+# Data repository from the manuscript:
 > <a href="https://link.springer.com/article/10.1007/s13592-017-0542-2" title="Peer reviewed">[Apidologie]</a> (2021) **<b>RNA-Seq reveals that mitochondrial genes and long noncoding RNAs may play important roles in the bivoltine generations of the non-social Neotropical bee <i>Tetrapedia diversipes</i></b>**<br />
 *Natalia de Souza Araujo, Priscila Karla F. Santos and Maria Cristina Arias*<br />
 
